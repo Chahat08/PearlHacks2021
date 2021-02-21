@@ -1,5 +1,6 @@
 **PearlHacks2021**
-# Fingernail Segmentation
+# Naild It!
+**Fingernail Segmentation**
 **Using a U-Net segmentation model for partioning out fingernails from images**<br>
 _Deployed using the Django Rest Framework_
 
