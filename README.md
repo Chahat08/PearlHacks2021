@@ -21,7 +21,6 @@
     
     }
     function fingar() {
-    var div = document.getElementById('statusdiv');
         alert("Done scaning")
         alert("Result")
         alert("Your Health")
