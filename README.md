@@ -8,7 +8,8 @@
     <button id='btn2' type="button" onclick="face()">Scan your face</button>
     <button id='bt3' type="button" onclick="fingar()">Scan your nails</button>
 </div>
-<div> with id="statusDiv
+<div id="statusDiv
+</div>
 <script>
     function health() {
         document.getElementById("scan").style.visibility="visible";
