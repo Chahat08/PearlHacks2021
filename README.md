@@ -23,3 +23,9 @@ The model itself has been deployed using the Django Rest Framework API and can b
 <img src="https://github.com/Chahat08/PearlHacks2021/blob/model/project_images/Screenshot1.png" width=350 alt="Test image">
 <img src = "https://github.com/Chahat08/PearlHacks2021/blob/model/project_images/Screenshot2.png" width=350 alt="Predicted segments">
 
+## Possible Applications
+
+1. **Disease detection via color deviation:** We could see how the average color across the segmented section deviates from the normal average color of a fingernail.<br> High deviations towards some colors could indicate the presence of diseases.<br> For example, a heavy deviation towards yellow could indicate Bleeding, diabetes, digestive problems, liver disease and more.<br>
+2. **Disease detection via pattern abnormailities:** Different patterns on the fingernails could be indicative of different types of diseases.<br>For example, Vertical Ridges and Split Nails could indicate Vitamin  A  deficiency or nervous  problems.
+3. **Anemia detection:** It can be analysed how Heamoglobin scales with fingernail color, and further use this knowledge to detect anemia in those with low heamoglobin.
+
