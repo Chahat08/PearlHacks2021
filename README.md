@@ -1,6 +1,6 @@
 **# PearlHacks2021**
 <!-- # PearlHacks2021Hi -->
-<h1></h1>
+<h1>Cupcake is nice, kind, sweet, polite, good kid, cupcake</h1>
 <div>
 <button id='btn1' type="button" onclick="health()"> Click here if you want check see your health</button>
 
@@ -17,20 +17,20 @@
     }
     function face() {
         alert("Done scaning")
-        alert("Result")
-        alert("Your Health")
+    
     var div = document.getElementById('statusdiv');
-    div.innerHTML += '<p>Status update: scan complete</p>';
+div.innerHTML += '<p> Result</p>';
+div.innerHTML += '<p style="float:left"> Your Health</p>';
     
     }
     function fingar() {
         alert("Done scaning")
-        alert("Result")
-        alert("Your Health")
-    var div = document.getElementById('statusdiv');
-div.innerHTML += '<p>Status update: scan complete</p>';
-   file://C:\Users\simra\OneDrive\Documents\Pearl Hacks 2021\image0.jpg
-     div.innerHTML += '<img src="file://C:/Users/simra/OneDrive/Documents/Pearl Hacks 2021/image0.jpg" / >'; // result
+ 
+        var div = document.getElementById('statusdiv');
+div.innerHTML += '<p> Result</p>';
+div.innerHTML += '<p style="float:left"> Your Health</p>';
+div.innerHTML += '< / >'; // result
+     div.innerHTML += '<img src="file://C:/Users/simra/OneDrive/Documents/Pearl Hacks 2021/image0.jpg" / >'; // Your Health
     }
 
 </script>
@@ -58,3 +58,4 @@ The model itself has been deployed using the Django Rest Framework API and can b
 ## Images
 <img src="https://github.com/Chahat08/PearlHacks2021/blob/model/project_images/Screenshot1.png" width=350 alt="Test image">
 <img src = "https://github.com/Chahat08/PearlHacks2021/blob/model/project_images/Screenshot2.png" width=350 alt="Predicted segments">
+
