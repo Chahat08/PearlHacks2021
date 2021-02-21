@@ -27,6 +27,7 @@
         alert("Result")
         alert("Your Health")
     var div = document.getElementById('statusdiv');
+    var div = document.getElementById('statusdiv');
 div.innerHTML += '<p>Status update: scan complete</p>';
 div.innerHTML += '<p style="float:left">Status update: scan complete</p>';
 div.innerHTML += '<img width=100 height=100 style="float:left" src="file:///C:/Users/User/Pictures/picture.png" / >'; // result
