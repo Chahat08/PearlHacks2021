@@ -3,7 +3,7 @@
 **Fingernail Segmentation**
 **Using a U-Net segmentation model for partioning out fingernails from images**<br>
 _Deployed using the Django Rest Framework_
-<img src="https://github.com/Chahat08/PearlHacks2021/blob/master/project_images/logo1.png" width=350 alt="Test image">
+<img src="https://github.com/Chahat08/PearlHacks2021/blob/master/project_images/logo1.png" alt="logo">
 
 ## What it does?
 The project basically makes use of a U-net segmentation model to identify and segment out portions of pixels containing fingernails from a given input image.
