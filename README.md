@@ -9,7 +9,6 @@
     <button id='bt3' type="button" onclick="fingar()">Scan your nails</button>
 </div>
 <div id="statusDiv
-</div>
 <script>
     function health() {
         document.getElementById("scan").style.visibility="visible";
