@@ -26,8 +26,7 @@
         alert("Your Health")
     var div = document.getElementById('statusdiv');
 div.innerHTML += '<p>Status update: scan complete</p>';
-    div.innerHTML += '<img src="C:\Users\simra\OneDrive\Documents\Pearl Hacks 2021\image0" />'; // result
-        
+   
     }
 
 </script>
