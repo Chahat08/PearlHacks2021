@@ -20,8 +20,8 @@ The model itself has been deployed using the Django Rest Framework API and can b
 6. Matplotlib (for visualisation)
 
 ## Images
-<img src="https://github.com/Chahat08/PearlHacks2021/blob/model/project_images/Screenshot1.png" width=350 alt="Test image">
-<img src = "https://github.com/Chahat08/PearlHacks2021/blob/model/project_images/Screenshot2.png" width=350 alt="Predicted segments">
+<img src="https://github.com/Chahat08/PearlHacks2021/blob/master/project_images/Screenshot1.png" width=350 alt="Test image">
+<img src = "https://github.com/Chahat08/PearlHacks2021/blob/master/project_images/Screenshot2.png" width=350 alt="Predicted segments">
 
 ## Possible Applications
 
