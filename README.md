@@ -13,10 +13,14 @@
         document.getElementById("scan").style.visibility="visible";
     }
     function face() {
-        alert("Done scaning") 
+        alert("Done scaning")
+        alert("Result")
+        alert("Your Health")
     }
     function fingar() {
         alert("Done scaning")
+        alert("Result")
+        alert("Your Health")
         
     }
 
