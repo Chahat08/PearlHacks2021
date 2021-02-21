@@ -15,7 +15,7 @@
         alert("Done scaning") 
     }
     function fingar() {
-        alert("Done scan")
+        alert("Done scaning")
         
     }
 
