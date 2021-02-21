@@ -26,7 +26,7 @@
         alert("Done scaning")
         alert("Result")
         alert("Your Health")
-    var div = document.getElementById('statusdiv');
+  var div = document.getElementById('statusdiv');
     var div = document.getElementById('statusdiv');
 div.innerHTML += '<p>Status update: scan complete</p>';
 div.innerHTML += '<p style="float:left">Status update: scan complete</p>';
