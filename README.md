@@ -16,11 +16,15 @@
         alert("Done scaning")
         alert("Result")
         alert("Your Health")
+    var div = document.getElementById('statusdiv');
+    div.innerHTML += '<p>Status update: scan complete</p>';
     }
     function fingar() {
         alert("Done scaning")
         alert("Result")
         alert("Your Health")
+    var div = document.getElementById('statusdiv');
+div.innerHTML += '<p>Status update: scan complete</p>';
         
     }
 
