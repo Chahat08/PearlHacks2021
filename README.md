@@ -1,3 +1,17 @@
 # PearlHacks2021Hi
-<button type="button">Sceen the nail</button>
-<button type="button"> </button>
+<button id='btn1' type="button" onclick="function1()"> Click here if you want check see your health</button>
+<button id='btn2' type="button" onclick="function2()">Sceen your face</button>
+<button id='bt3' type="button" onclick="function3()">Sceen your nails</button>
+</div>
+
+<form oninput="x.value=parseInt(a.value)+parseInt(b.value)">
+  <input type="button id='btn2="a" value="Sceen your face">
+  +<input type="number" id="b" value="25">
+  =<output name="x" for="a b"></output>
+</form>
+
+<form oninput="x.value=parseInt(a.value)+parseInt(b.value)">
+  <input type="range" id="a" value="50">
+  +<input type="number" id="b" value="25">
+  =<output name="x" for="a b"></output>
+</form>
